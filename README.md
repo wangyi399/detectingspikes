@@ -47,3 +47,7 @@ The data and the code except for **exploring.py** and the following functions in
 - **good_AP_finder()**
 - **plot_spikes()**
 - **plot_waveforms()**
+
+## License
+
+This is an open source free program provided under The MIT License (MIT). A copy of the license is available in LICENSE.txt at the root of the source code. If not, please see <http://opensource.org/licenses/MIT>.
